@@ -25,7 +25,7 @@ The project demonstrates how to effectively gather, transform, and store data in
 
 First, we visualized our desired database schema using DBDiagram. This involved defining tables, specifying columns, setting data types, and delineating the relationships between tables.
 
-![schema_final](https://github.com/chrisxj33/Bike-Store-Data-Analytics/assets/53899548/bd949b90-bde9-4f72-94bc-e1761cc3de34)
+![schema_final](https://github.com/chrisxj33/Bike-Store-Data-Analytics/assets/53899548/8bb6029d-fb63-4881-8558-db0f0ca59f00)
 
 Subsequently, we initialized our database within Azure's SQL Database service. Using Azure Data Studio, we remotely accessed the database from a local machine and executed an SQL notebook to apply the visualized schema. This process involved creating tables and setting up relationships. With this step completed, the database was primed to receive data.
 
