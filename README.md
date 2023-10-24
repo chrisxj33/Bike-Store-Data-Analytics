@@ -9,6 +9,8 @@ Data Source: https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-data
 
 The project demonstrates how to effectively gather, transform, and store data in a structured manner, leveraging Azure's suite of tools, making it a valuable blueprint for businesses aiming to streamline their data analytics processes and providing scalability for improved cost.
 
+![Blank diagram](https://github.com/chrisxj33/Bike-Store-Data-Analytics/assets/53899548/5e165ff6-d06a-4a76-935b-82eb50f2b642)
+
 ### Project Importance
 - **Centralized Data Storage:** By setting up a relational database, businesses can ensure that their data is stored in a centralized and structured manner. This makes it easier to access, manage, and update data as needed.
 - **Efficient Data Ingestion:** Using tools like Azure Data Factory simplifies the data ingestion process, allowing businesses to quickly pull in new data from various sources and keep their databases up-to-date.
