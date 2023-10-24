@@ -1,4 +1,4 @@
-# Preparing Data from a Bike Store for Analysis
+# Extracting and Preparing Bike Store Data for Analysis
 
 [Credit: sqlservertutorial.net](http://sqlservertutorial.net)
 [Data Source](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database?select=brands.csv)
