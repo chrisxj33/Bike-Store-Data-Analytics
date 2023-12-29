@@ -15,7 +15,7 @@ This project demonstrates how to effectively collect, transform, and store data 
 - **Centralised Data Storage:** By setting up a relational database, businesses can ensure that their data is stored in a centralised and structured manner. This makes it easier to access, manage, and update data as needed as well as querying for enhanced business decision making.
 - **Efficient Data Ingestion:** Using tools like Azure Data Factory simplifies the data ingestion process, allowing businesses to quickly pull in new data from various sources and keep their databases up-to-date.
 - **Scalability:** Cloud platforms like Azure offer scalable database solutions. As the company grows and its data needs increase, the database can be scaled up without significant changes to the existing infrastructure.
-- **Automation:** The entire end to end process is scheduled to update the database with the latest data.
+- **Automation:** The entire end to end process is automated to update the database with the latest data.
 
 # Methodology
 
